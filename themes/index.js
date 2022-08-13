@@ -342,18 +342,18 @@ const themes = {
     text_color: "bcbcbc",
     bg_color: "262626",
   },
-  moltack: {
-    title_color: "86092C",
-    icon_color: "86092C",
-    text_color: "574038",
-    bg_color: "F5E1C0",
-  },
-   "batteries_not_included": {
+  "batteries_not_included": {
     title_color: "131313",
     icon_color: "2f6dba",
     text_color: "2c2c2c",
     bg_color: "ffe64c",
     border_color: "ffffff",
+  },
+  moltack: {
+    title_color: "86092C",
+    icon_color: "86092C",
+    text_color: "574038",
+    bg_color: "F5E1C0",
   },
   codeSTACKr: {
     title_color: "ff652f",
